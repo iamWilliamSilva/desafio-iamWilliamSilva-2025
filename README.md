@@ -21,16 +21,19 @@ Este repositório contém a solução para o desafio de código "Abrigo de Anima
 Siga os passos abaixo para clonar o repositório, instalar as dependências e executar os testes:
 
 1.  **Clone o repositório:**
+
     ```bash
-    git clone [https://github.com/iamWilliamSilva/desafio-iamWilliamSilva-2025.git](https://github.com/iamWilliamSilva/desafio-iamWilliamSilva-2025.git)
+    git clone https://github.com/iamWilliamSilva/desafio-iamWilliamSilva-2025.git
     ```
 
 2.  **Acesse a pasta do projeto:**
+
     ```bash
     cd desafio-iamWilliamSilva-2025
     ```
 
 3.  **Instale as dependências:**
+
     ```bash
     npm install
     ```
